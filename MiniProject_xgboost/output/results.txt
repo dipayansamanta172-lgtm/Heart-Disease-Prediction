@@ -1,0 +1,11 @@
+XGBClassifier
+
+Accuracy: 0.7915
+
+Precision: 0.1852
+
+Recall: 0.0125
+
+F1 Score: 0.0234
+
+ROC-AUC Score: 0.4864
