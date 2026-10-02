@@ -1,12 +1,20 @@
-readme = r'''# Heart Disease Prediction using Machine Learning
+# Heart Disease Prediction using Machine Learning
 
 Predict heart disease status using machine learning by analyzing patient health and lifestyle features.
 
+[![Python](https://img.shields.io/badge/Python-3-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy&logoColor=white)](https://numpy.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4C72B0)](https://seaborn.pydata.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-Model-189A46)](https://xgboost.readthedocs.io/)
+[![License](https://img.shields.io/badge/License-Open%20Source-green)](https://github.com/dipayansamanta172-lgtm/Heart-Disease-Prediction)
+
 ## Download
 
-[Download Project](https://github.com/dipayansamanta172-lgtm/Heart-Disease-Prediction/archive/refs/heads/main.zip)
-
-[Download Dataset](https://github.com/dipayansamanta172-lgtm/Heart-Disease-Prediction/raw/main/MiniProject_LogisticRegression/heart.csv)
+[![Download Project](https://img.shields.io/badge/Download-Project-blue)](https://github.com/dipayansamanta172-lgtm/Heart-Disease-Prediction/archive/refs/heads/main.zip)
+[![Download Dataset](https://img.shields.io/badge/Download-Dataset-green)](https://github.com/dipayansamanta172-lgtm/Heart-Disease-Prediction/raw/main/MiniProject_LogisticRegression/heart.csv)
 
 ## Overview
 
@@ -161,7 +169,8 @@ python3 xgboost_model.py
 
 ### Prerequisites
 
-[Python Download](https://www.python.org/downloads/)
+[![Download Python](https://img.shields.io/badge/Download-Python-blue?logo=python&logoColor=white)](https://www.python.org/downloads/)
+[![Download VS Code](https://img.shields.io/badge/Download-VS%20Code-blue?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ### Install Required Libraries
 
@@ -221,11 +230,6 @@ Each model folder generates:
 ---
 
 **Dataset:** heart.csv  
-**Repository:** https://github.com/dipayansamanta172-lgtm/Heart-Disease-Prediction  
+**Repository:** [Heart Disease Prediction](https://github.com/dipayansamanta172-lgtm/Heart-Disease-Prediction)  
 **Author:** Dipayan Samanta  
 **License:** Open source
-'''
-path = "/mnt/data/README.md"
-with open(path, "w", encoding="utf-8") as f:
-    f.write(readme)
-print(path)
